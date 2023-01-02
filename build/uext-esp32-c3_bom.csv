@@ -1,0 +1,13 @@
+Component,References,Value,Footprint,Description,Quantity Per PCB,Manufacturer,PartNumber,Remarks,DNM
+1,C5,100nF,C_0603_1608,,1,any,,"50V, X7R",
+2,C3,1uF,C_0603_1608,,1,any,,"10V, X5R",
+3,C1 C2,2.2u,C_0603_1608,,2,any,,"10V, X5R",
+4,C4,10uF,C_0805_2012,,1,any,,"10V, X5R",
+5,J2,UEXT,PinSocket_2x05_P2.54mm_Vertical,Olimex UEXT connector (2x5 box header),1,any,,,
+6,J1,USB_B_Micro,USB_Micro-B_10103594-0001LF,USB Micro Type B connector,1,Amphenol FCI,10103594-0001LF,,
+7,LED1,LED,LED_0603_1608Metric,Light emitting diode,1,any,red,,
+8,R1,1k,R_0603_1608,Resistor,1,any,,,
+9,R2,10k,R_0603_1608,Resistor,1,any,,,
+10,U1,AP2210-3.3,SOT-23-5,"300mA low dropout linear regulator, shutdown pin, 1.5V fixed positive output, SOT-23-5 package",1,Diodes Inc.,AP2210K-3.3TRG1,Alternative: MIC5225,
+11,U3,ESP32-C3-MINI-1,ESP32-C3-MINI-1,"ESP32-C3-MINI-1 is a general-purpose Wi-Fi and Bluetooth LE module. This module features a rich set of peripherals and a small size, which makes it an ideal choice for smart home, industrial automation, health care, consumer electronics, etc",1,Espressif,ESP32-C3-MINI-1-N4,,
+12,U2,NUP4202,SOT-363_SC-70-6,"Transient voltage suppressor designed to protect high speed data lines from ESD, EFT, and lightning",1,On Semi,NUP4202W1T2G,"Alternatives: Würth 82400274, Diodes D1213A-04S",Würth 82400274
