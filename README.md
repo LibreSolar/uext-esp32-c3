@@ -4,7 +4,7 @@
 
 Schematic: [PDF file](build/uext-esp32-c3.pdf)
 
-Bill of Materials: [CSV file](build/uext-esp32-c3_bom.csv) or [interactive HTML BOM](https://libre.solar/uext-esp32-c3/uext-esp32-c3_ibom.html)
+Bill of Materials: [CSV file](build/uext-esp32-c3_bom.csv) or [interactive HTML BOM](https://libre.solar/uext-esp32-c3/build/uext-esp32-c3_ibom.html)
 
 ![UEXT ESP32 Module](build/uext-esp32-c3.png)
 
